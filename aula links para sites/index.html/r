@@ -1,0 +1,12 @@
+  <h1>Pagna inicial</h1>
+  <p>Seja bm vindo a pagina inicial!</p>
+  <hr>
+  <!-- LINK ABSOLUTO (URL ABSOLUTA)-->
+  <a href=https://www.google.com target="_banck"> ir para o google </a><BR>
+
+
+    <!-- link lativo (url relativa)-->
+    <a href="sobre.html"> sobre nos</a>
+   <br> <br>
+   <a href="equipe/dmitri.html"> Equipe</a>
+    <hr>
